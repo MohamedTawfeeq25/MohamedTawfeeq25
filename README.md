@@ -5,8 +5,13 @@
 <p>- 💞️ I'm looking to collaborate with a Javascript programmer</p>
 <p>- 💬 Ask me about **HTML,CSS,JAVASCRIPT**</p>
 <p>- 📫 How to reach me **mohamedtawfeeq35@gmail.com**</p>
+<h1>Connect me with</h1>
+<p><a href="https://www.linkedin.com/in/s-mohamed-tawfeeq-33685a223"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+<h1>:computer: See my works on</h1>
+<p><a href="https://www.codechef.com/users/tawfeeq123"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
+  <a href="https://codepen.io/SMT25"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+</p>
 <h1>🚀 Skills</h1>
-
   <h2>Frontend</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
